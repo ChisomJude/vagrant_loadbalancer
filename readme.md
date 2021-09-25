@@ -6,7 +6,7 @@
 > Controller Node ( where Ansible is installed) <br/>
 > Provider - Virtual box <br>
 > Provisioning - Ansible <br>
-> ![Configuration Completed ] (https://m365x728370-my.sharepoint.com/:i:/g/personal/hello_chisomjude_net/ERKOl1KOo6JMr6XZOJ7DeJsBumYsDPzvtidRzb46RMBxdQ?e=kH6YUj)
+> ![Configuration Completed ] (Selection_001 (1).png)
 
 ### Basic Requirements
 
