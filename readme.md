@@ -14,12 +14,8 @@
 
 1. Steps to reproduce
 
-0. Vagrantbox Image https://app.vagrantup.com/ubuntu/boxes/bionic64 
-    ```sh
-    vagrant init ubuntu/bionic64
-    ```
 
-0. Configure  Vagrant file :
+0. Vagrant file :
 
     ```sh
     Vagrant.configure("2") do |config|
@@ -53,15 +49,22 @@
 end
     ```
 
-0. Start Flask development server:
-    ```sh
-    cd my-project-name
-    make run
+   
   
-  ### Requirements
-  0. Install Vagrant  (Vagrantbox Image https://app.vagrantup.com/ubuntu/boxes/bionic64)
-  0. add a  Virtual box https://www.virtualbox.org/wiki/Downloads
-  0. Create a new instance using the vagrant init ubuntu/bionic64
-  0. Add a Virtual box (vb) -- vagrant box add ubuntu/bionic64
- 
+  ### Steps to run
+  > Install Vagrant  
+  > Install Virtual box https://www.virtualbox.org/wiki/Downloads vagrant box add ubuntu/bionic64
+  0. Clone Git file
+  1. Change Directory to the file on your machine, open terminal and run
+  2.```sh
+      vagrant Up
+    ```
+  3. Once All installation is complete 
+  4. Open Virtual Box and navigate to  the Load balancer machine
+  5. From the Loadbalancer VM , Open terminal and run the command:
+    ```sh
+   curl -i 172.17.177.21
+   
+    ```
+ 6. On the Host Browser Load http://hello or 172.17.177.21
   
