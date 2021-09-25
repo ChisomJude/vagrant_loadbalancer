@@ -64,7 +64,6 @@ end
   5. From the Loadbalancer VM , Open terminal and run the command:
     ```sh
    curl -i 172.17.177.21
-   
-    ```
+   ```
  6. On the Host Browser Load http://hello or 172.17.177.21
   
