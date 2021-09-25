@@ -8,8 +8,14 @@
 > Provisioning - Ansible <br>
 > Images  
 
-![Configuration Completed ] (configimg.png)
-![Happy Christmas](configimg.png)
+
+![Configuration Result](configimg.png)
+
+![Sample Node1 ](imagex.png)
+
+![Sample Node1 ](imagexx.png)  
+
+
 ### Basic Requirements
 
 0. Install [Vagrant](https://www.vagrantup.com/)
