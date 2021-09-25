@@ -6,14 +6,8 @@
 > Controller Node ( where Ansible is installed) <br/>
 > Provider - Virtual box <br>
 > Provisioning - Ansible <br>
-> Images  
+> See Images   Below
 
-
-![Configuration Result](configimg.png)
-
-![Sample Node1 ](imagex.png)
-
-![Sample Node1 ](imagexx.png)  
 
 
 ### Basic Requirements
@@ -76,4 +70,14 @@
            curl -i 172.17.177.21
     ```
  6. On the Host Browser Load http://hello or 172.17.177.21
+ 
+ 7. See Images  
+ 
+ 
+![Configuration Result](configresult.png)
+
+![Sample Node1 ](imagex.png)
+
+![Sample Node1 ](imagexx.png)  
+
   
