@@ -9,7 +9,7 @@
 > Images  
 
 ![Configuration Completed ] (configimg.png)
-
+![Happy Christmas](configimg.png)
 ### Basic Requirements
 
 0. Install [Vagrant](https://www.vagrantup.com/)
