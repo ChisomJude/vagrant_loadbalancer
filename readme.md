@@ -6,7 +6,8 @@
 > Controller Node ( where Ansible is installed) <br/>
 > Provider - Virtual box <br>
 > Provisioning - Ansible <br>
-> ![Configuration Completed ] (configimg.png)
+> Images
+![Configuration Completed ] (configimg.png)
 
 ### Basic Requirements
 
