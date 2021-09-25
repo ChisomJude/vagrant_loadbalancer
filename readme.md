@@ -74,7 +74,7 @@
  7. See Images  
  
  
-![Configuration Result](configresult.png)
+![Configuration Result](configResult.png)
 
 ![Sample Node1 ](imagex.png)
 
